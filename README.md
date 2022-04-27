@@ -7,6 +7,8 @@
 My name is Neyva Hernandez and I am a Chicana multidisciplinary artist primarily working in creative coding, creative technologies, assistive technology and interaction design.
 My main goal when approaching any problem is to incorporate universal design, and to make things as accessible as possible.
 
+In my free time I like practicing my 3D modeling, building art pieces with Arduino, and making coding art pieces with Processing.
+
 Feel free to visit my portfolio site @ https://nth230.github.io/ 
 
 
